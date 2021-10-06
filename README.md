@@ -1,2 +1,2 @@
 # TicTacToe
-Game usign HTML
+Game usign HTML, CSS, javascript
